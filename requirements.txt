@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain-pinecone
+langgraph
+faiss-cpu
+pinecone-client
+sentence-transformers
+streamlit
+python-dotenv
